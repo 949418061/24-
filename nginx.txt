@@ -1,0 +1,1 @@
+	rewrite ^/share_(.*)\.html$ /share.php?gid=$1[NC];
