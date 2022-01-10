@@ -1,0 +1,1 @@
+alter table safwl_order add phone varchar(11) after coupon_id;

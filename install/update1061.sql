@@ -1,0 +1,1 @@
+alter table safwl_order add paypass varchar(100) after md5_trade_no;
